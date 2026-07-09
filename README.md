@@ -4,7 +4,7 @@ I'm an AI-native operator and builder. I turn messy, real-world workflows into A
 
 ### What I'm building
 
-- **Trevise** ([trevise.tech](https://trevise.tech)): AI-commerce infrastructure that gets ChatGPT and other AI assistants to recommend a brand's products accurately. YC applicant, piloting with a Shopify brand.
+- **Trevise** ([trevise.tech](https://trevise.tech)): AI-commerce infrastructure that gets ChatGPT and other AI assistants to recommend a brand's products accurately. Piloting with a Shopify brand.
 - **Sonar**: AI talent-sourcing that surfaces top AI and engineering candidates from GitHub, open source, and academic communities beyond traditional platforms.
 - **Aerion assistant**: internal AI tool that makes a family office's investment knowledge queryable across companies, contacts, and deals, kept current by an email agent.
 
